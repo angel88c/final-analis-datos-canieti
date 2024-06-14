@@ -13,8 +13,14 @@ cd final-analis-datos-canieti
 ```
 
 #### crear un entorno virtual
+Para Windows
 ```
 python -m venv env
+```
+
+Para Mac
+```
+python3 -m venv env
 ```
 
 #### Activar el entorno virtual
