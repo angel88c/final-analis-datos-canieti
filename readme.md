@@ -9,7 +9,7 @@ git clone https://github.com/angel88c/final-analis-datos-canieti.git
 #### Ir a la carpeta del proyecto
 
 ```
-cd final-analis-datos-canieti-main
+cd final-analis-datos-canieti
 ```
 
 #### crear un entorno virtual
