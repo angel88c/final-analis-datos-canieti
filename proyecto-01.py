@@ -213,4 +213,12 @@ if __name__ == '__main__':
     
     st.markdown("### No hay evidencia suficiente para rechazar la hipotesis nula dado que p-value > 0.05")
     
-    st.markdown()
+    st.markdown("# Conclusion")
+    
+    st.write("""
+             Las pruebas AB nos sirven para determinar y demostrar que 
+             las suposiciones que tenemos son a menudo incorrectas.
+             Una vez iniciada la prueba, el análisis ha de desempeñar un rol fundamental.
+             Al final, es un approach cuantitativo que puede medir patrones de comportamiento de nuestros resultados y
+             proveer los insights para desarrollar soluciones.
+             """)
