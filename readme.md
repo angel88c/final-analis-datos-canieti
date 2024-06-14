@@ -26,12 +26,12 @@ python3 -m venv env
 #### Activar el entorno virtual
 Para windows:
 ```
-.\env\bin\scripts\activate
+./env/bin/scripts/activate
 ```
 
 Para mac:
 ```
-source env\bin\activate
+source env/bin/activate
 ```
 
 #### Instalar todas las dependencias:
