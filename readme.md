@@ -2,14 +2,14 @@
 
 #### Clonar el proyecto:
 ```python
-git clone https://github.com/....
+git clone https://github.com/angel88c/final-analis-datos-canieti.git
 
 ```
 
 #### Ir a la carpeta del proyecto
 
 ```
-cd sss
+cd final-analis-datos-canieti-main
 ```
 
 #### crear un entorno virtual
